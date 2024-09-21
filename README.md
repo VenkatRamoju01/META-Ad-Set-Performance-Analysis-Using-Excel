@@ -23,7 +23,7 @@ In this project, I have analyzed the performance of 17 ad sets from a fictional 
 
 4. **Granular Analysis**
    - A more granular analysis was conducted by breaking down the ad set names to extract different features, such as targeting method, user type, gender type, product type, and ad location, for deeper insights.
-   - 
+     
 5. **Performance Across Cuts**
    - Detailed analysis was performed on ad performance across various cuts, such as age, gender, placement, and more.
 
