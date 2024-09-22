@@ -4,7 +4,7 @@
 
 In this project, I have analyzed the performance of 17 ad sets from a fictional clothing company's Meta ads account over a period of two months. The dataset encompasses the performance metrics of different types of ad sets, segmented by various factors such as age, gender, placements, region, and time. Each data segmentation is presented in a separate tab, totaling five tabs for comprehensive analysis.
 
-**[Download the Excel file here](https://github.com/VenkatRamoju01/Meta-Ad-Analysis/blob/main/Meta_Ad_Analysis.xlsx)** to explore the raw data and analysis in detail.
+**[Download the Excel file here](Meta_Ad_Analysis.xlsx)** to explore the raw data and analysis in detail.
 
 ## Project Steps
 
