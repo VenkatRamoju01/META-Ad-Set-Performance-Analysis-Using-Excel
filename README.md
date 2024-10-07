@@ -1,5 +1,3 @@
-# META Ad Set Performance Analysis Project
-
 ## Overview
 
 In this project, I have analyzed the performance of 17 ad sets from a fictional clothing company's Meta ads account over a period of two months. The dataset encompasses the performance metrics of different types of ad sets, segmented by various factors such as age, gender, placements, region, and time. Each data segmentation is presented in a separate tab, totaling five tabs for comprehensive analysis.
